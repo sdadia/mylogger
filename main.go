@@ -1,5 +1,5 @@
 package mylogger
 
-func hello()  {
+func Hello() {
 	println("Hello From Package")
 }
